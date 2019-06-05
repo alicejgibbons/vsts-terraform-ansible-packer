@@ -1,5 +1,5 @@
-storage_account_name = "vstsbuildterraform"
+storage_account_name = "agterraformstate"
 
-container_name = "terraform-state"
+container_name = "tfstate"
 
 key = "demo-iac.terraform.tfstate"
