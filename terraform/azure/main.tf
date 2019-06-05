@@ -177,7 +177,7 @@ resource "azurerm_virtual_machine_scale_set" "vmss" {
 
     ssh_keys {
       path     = "/home/azureuser/.ssh/authorized_keys"
-      key_data = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDzWnLrGQrrR/1ghPRWzRVGLi64vMv+h+Wqx1BbgjHBUJd+TmJwrt8jJn7g/lMt9v2nkPU31B5iFeJJei5E/ShPAhxss4N5/J4fP6Uxq3iXcDC9LdC3P4wdQh5bxTYN1ruQtPpmyTPrLpfK++SPu42pAiAoAWdiw7s/WXLzxNALWsl2zrpNqTK9OdrDWmDFeu7PzVGxJ3cPEhPHfxzBTmj87vN5obSGr7uHrmtDwX5+5l6UscyWLdC6q6Wbk/SW8bICfccXJua3yddtXb5sx8jSivo99qusSpE8uUrpzFz9XFlARJQWtO0fsZKnK+yxZktcGNh8FvI89AU7iW4A180z lenisha@Terraform"
+      key_data = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDSMrivCj84H8JZFFOiWZrzQCqj1MKtkNTEFU+GbEyYa+XF8HkDSBQ2troWGgZ26qRDE5pKcFw6bUQSq43jANfOfviMEzF8xBI5UzGIGL+pzGgf0vxoGGEI0943uvN+KieSj1g4fkomLDIc+9Zy+UeOsH8OACoGUQZeJGvlOx43APhodDklcSZpBczUEvqrWUs2hRShtO+0dHKtNySkiYKebrz6oQ9hA9NUu2KXv5dQneAX/hUHbn1Q15MVeZ8TjkRdgamowI6Yz9l/e0Wq9rfrKGaMQvyPFp/K2qpBsGvlCynDvaKaUwaRZf1PcVD5wS2YQ4tNvi0Rz5mHGtX+Cl2qffBbtXBFz/UBb7YS9ADwBky/TzwYWZ2PFqxzmAIA3uOji99UUI/Ff6CCJyVye4dtUdNVApfnvTI2Ty7Q97ZLA1ORggAh+67Gu52+ivjBPYxWHxK1uAXIu39agF5PQ/qKzFwGqPE0OqcGfta+NIpATE7A26q4BH3KUthJDsCN2P2iSH7gDiFf5TW5ZW0G0eWlffpNro2rffUNiHfU9ASM1WX2PCAqyYn4zstNDINOIsYuKeMqOrM39df1jtm3/TRonYOZZHSNQq8tGvHFLHX2QFlWV0PlFV1CcoU7CwoEahGpEVObu4fXLW5Z1UpVLC2eqLyWdNrOnhVfKDTaL7o+zw== algibbon@microsoft.com"
     }
   }
 
