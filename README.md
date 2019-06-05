@@ -1,4 +1,4 @@
-Continuous Integration and Deployment using VSTS , Packer, Terraform and Ansible
+Continuous Integration and Deployment using VSTS , Packer, Terraform and Ansible: Prairie Dev Con
 ============
 
 This repository contains code for the "Building Immutable infastructure Demo". Following is the flow:
